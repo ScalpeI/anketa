@@ -1,0 +1,13 @@
+C:\My Files\Visual Studio\anketa\anketa\bin\Debug\anketa.exe.config
+C:\My Files\Visual Studio\anketa\anketa\bin\Debug\anketa.exe
+C:\My Files\Visual Studio\anketa\anketa\bin\Debug\anketa.pdb
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.csprojResolveAssemblyReference.cache
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.MainForm.resources
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.Properties.Resources.resources
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.csproj.GenerateResource.Cache
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.exe
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.pdb
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.Logon.resources
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\anketa.Form1lvl.Form1app.resources
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\RdlCompile.cache
+C:\My Files\Visual Studio\anketa\anketa\obj\Debug\RdlCompile.compiled
